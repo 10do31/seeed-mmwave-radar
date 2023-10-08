@@ -4,7 +4,7 @@
 #include "py/objtype.h"
 #include "py/obj.h"
 #include "py/runtime.h"
-#include "py/shared-bindings/util.h"
+#include "shared-bindings/util.h"
 
 //Previously mapped functions copied over.
 void common_hal_falldetectionradar_construct(abstract_module_t *self);
