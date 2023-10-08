@@ -1,0 +1,12 @@
+{
+    "name": "Seeed ArduPy MR24HPB1",
+    "version": "1.0.0",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "dependencies": [{
+        "name": "Seeed_Arduino_falldetectionradar",
+        "url": "https://github.com/limengdu/Seeed-Studio-MR24FDB1-Sensor.git"
+    }]
+}
